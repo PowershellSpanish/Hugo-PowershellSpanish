@@ -1,0 +1,15 @@
+[es]
+  title = "Spanish Powershell User Group"
+  LanguageName = "Spanish"
+  weight = 1
+
+[en]
+  title = "Spanish Powershell User Group"
+  LanguageName = "English"
+  weight = 2
+
+#[pt]
+#  title = "Claridade" # just for the sake of showing this is possible
+#  LanguageName = "Português"
+#  weight = 3
+  

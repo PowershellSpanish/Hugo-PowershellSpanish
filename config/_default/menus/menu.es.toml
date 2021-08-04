@@ -1,0 +1,76 @@
+[[main]]
+  name = "Inicio"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Archivo"
+  url = "post/rich-content/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Enlaces"
+  identifier = "Links"
+  weight = -108
+#[[main]]
+#  parent = "Links"
+#  name = "LinkedIn"
+#  url = "https://www.linkedin.com/"
+[[main]]
+  parent = "Links"
+  name = "Telegram"
+  url = "https://t.me/PowershellSpanish"
+[[main]]
+  parent = "Links"
+  name = "Github"
+  url = "https://github.com/PowershellSpanish"
+[[main]]
+  parent = "Links"
+  name = "Twitter"
+  url = "https://twitter.com/pwshspanish"
+[[main]]
+  parent = "Links"
+  name = "Buy Me a Coffe"
+  url = "https://buymeacoffee.com/?via=pwshSpanish"
+
+[[main]]
+  name = "Acerca"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/PowershellSpanish"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/pwshspanish"
+#[[social]]
+#  name = "linkedin"
+#  weight = 3
+#  url = "https://www.linkedin.com/in/#"
+[[social]]
+  name = "telegram"
+  weight = 3
+  url = "https://t.me/PowershellSpanish"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
