@@ -32,7 +32,7 @@
 [[main]]
   parent = "Links"
   name = "Buy Me a Coffe"
-  url = "https://buymeacoffee.com/?via=pwshSpanish"
+  url = "https://buymeacoffee.com/pwshSpanish"
 
 [[main]]
   name = "Acerca"
